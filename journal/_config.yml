@@ -1,0 +1,12 @@
+title: MARS | Marlborough Academic Research Society
+logo: images/logoFloral.png
+
+execute:
+  execute_notebooks: force
+
+latex:
+  latex_documents:
+    targetname: book.tex
+    
+html:
+  home_page_in_navbar: false  
