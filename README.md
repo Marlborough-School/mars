@@ -1,7 +1,9 @@
 # hrsjournal
 
-Emma was here
-Emma was here
+## commits
+git status
+git commit -a ## this is with added files, otherwise it's only the changed files
+git push
 
 
 ## Goals for Issue 2 (2024-25)
