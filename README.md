@@ -1,5 +1,9 @@
 # hrsjournal
 
+Emma was here
+Emma was here
+
+
 ## Goals for Issue 2 (2024-25)
 
 - Transition to reaL URL or marlborough-school.github.io/mars
