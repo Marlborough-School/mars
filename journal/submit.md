@@ -2,19 +2,23 @@
 
 Thank you for your interest in submitting a paper to *MARS,* Marlborough’s student-run academic journal. Here is some important information to consider before submitting your article.
 
-Fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScOu9p1esOBgegB4a2pdl899FHnj7qimCk-O9nP20wgzsSdpg/formResponse) form to submit your article.
+Fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSeSKfMEY1grPm38ADvldRxB4seJhvB4onfhsQ-o_8fF0pwB6g/viewform) form to submit your article.
 
 ### Deadlines
 
-Our inaugural issue opens for submissions on **Monday, March 11, 2024.** The last day to submit an article is **Friday, March 15, 2024.** Decisions will be released on **Monday, March 18, 2024.**
+The last day to submit an article is **October 4**.
 
 ## Author Guidelines
 
 ### Eligibility
 
-*MARS* accepts papers of all different academic fields and disciplines, written by chief authors in grades 9-12. While *MARS* is closely affiliated with the Honors Research program, eligible papers may be produced for any class, or they can be independent research projects. 
+We are accepting the following:
 
-*MARS* only accepts polished drafts of papers, not project proposals. Any alternative forms of research will not be reviewed. 
+- Honors Research papers
+- Extended essays
+- Outside research papers
+
+*MARS* only accepts polished drafts of papers, not project proposals.
 
 ### Expectations
 
@@ -73,7 +77,7 @@ Though most professional journals employ double-blind peer review, this is not f
 After submission, you can expect an email response from one of the *MARS* editors within 1-3 weeks, informing you of whether your paper has been accepted with revisions or rejected. **No papers will be accepted without revisions.**  
 
 
-1. Fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScOu9p1esOBgegB4a2pdl899FHnj7qimCk-O9nP20wgzsSdpg/formResponse) form to submit your article.
+1. Submit your article.
 2. Upon submission, at least one editor will read every paper, and all subject editors will read every abstract before meeting to decide whether to accept or reject the submission. 
 3. After a paper is accepted, it will be revised by three *MARS* staff members, including an editor-in-chief, along with one student author. 
 4. All editors and peer reviewers will meet to discuss their revisions before sending a new version of the paper with suggested edits via email. 
@@ -124,5 +128,5 @@ If you are unclear as to what contributions constitute co-authorship, see [this]
 
 ### More questions?
 
-Reach out to the **editors-in-chief** — Eli Lerner (elilerner24@marlborough.org) and Wyeth Renwick (wyethrenwick24@marlborough.org) — via email with any questions, comments, or concerns.
+Reach out to the **editors-in-chief** via email with any questions, comments, or concerns.
 

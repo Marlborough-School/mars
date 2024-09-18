@@ -8,17 +8,13 @@
 
 ```{sidebar} <font color = #260859>*Current Staff*</font>
 
-[Eli Lerner](./authors/eliLerner/eliLerner.md) | *Editor-In-Chief*
+[Mattie Epstein](./authors/mattieEpstein/mattieEpstein.md) | *Humanities & Social Sciences Editor in Chief*
 
-[Wyeth Renwick](./authors/wyethRenwick/wyethRenwick.md) | *Editor-In-Chief*
+[Sally Cheng](./authors/sallyCheng/sallyCheng.md) | *Humanities & Social Sciences Editor in Chief*
 
-[Mattie Epstein](./authors/mattieEpstein/mattieEpstein.md) | *Humanities & Social Sciences Editor*
+[Vic Perry](./authors/vicPerry/vicPerry.md) | *Sciences Editor in Chief*
 
-[Sally Cheng](./authors/sallyCheng/sallyCheng.md) | *Humanities & Social Sciences Editor*
-
-[Vic Perry](./authors/vicPerry/vicPerry.md) | *Sciences Editor*
-
-[Lauren Vick](./authors/laurenVick/laurenVick.md) | *Sciences Editor*
+[Lauren Vick](./authors/laurenVick/laurenVick.md) | *Sciences Editor in Chief*
 
 [Emma Melville](./authors/emmaMelville/emmaMelville.md) | *Website Editor*
 
