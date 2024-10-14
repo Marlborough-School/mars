@@ -5,7 +5,7 @@ Published online 25 April 2024
 
 ```{margin} Access Options
 
-Download the full paper [here](./mustangGender.pdf).
+Download the full paper [here](./gis.pdf).
 
 Download the full database [here](https://docs.google.com/spreadsheets/d/10Nln41L-asLiQR8LHC3uC8POxaEVgPzmNSImBPOpGcA/edit?usp=sharing).
 ```
