@@ -13,6 +13,7 @@ Read her 2024 article in *Women's Media Center* [here](https://womensmediacenter
 
 Read her 2024 article in *The Threo* [here](https://thethreo.com/tampon-tax-repeal-a-step-towards-bipartisan-consensus-in-the-bloody-field-of-female-healthcare-policy/)
 
+Read about her research with the Coro Foundation in *Refinery29* [here](https://www.refinery29.com/en-us/2024/10/11780823/free-tampons-menstrual-products-schools)
 ```
 
 ```{margin} Positions
