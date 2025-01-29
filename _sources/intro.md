@@ -16,6 +16,8 @@
 
 [Lauren Vick](./authors/laurenVick/laurenVick.md) | *Sciences Editor in Chief*
 
+[Ali Emerson](./authors/aliEmerson/aliEmerson.md) | *Sciences Editor*
+
 [Emma Melville](./authors/emmaMelville/emmaMelville.md) | *Website Editor*
 
 [Riley Roggenkamp](./authors/rileyRoggenkamp/rileyRoggenkamp.md) | *Website Editor*
