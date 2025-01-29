@@ -18,6 +18,10 @@
 
 [Ali Emerson](./authors/aliEmerson/aliEmerson.md) | *Sciences Editor*
 
+[Emma Wollaeger](./authors/emmaWollaeger/emmaWollaeger.md) | *Sciences Editor*
+
+[Emma Wollaeger](./authors/emmaWollaeger/emmaWollaeger.md) | *Sciences Editor*
+
 [Emma Melville](./authors/emmaMelville/emmaMelville.md) | *Website Editor*
 
 [Riley Roggenkamp](./authors/rileyRoggenkamp/rileyRoggenkamp.md) | *Website Editor*
