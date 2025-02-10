@@ -18,6 +18,10 @@
 
 [Ali Emerson](./authors/aliEmerson/aliEmerson.md) | *Sciences Editor*
 
+[Emma Wollaeger](./authors/emmaWollaeger/emmaWollaeger.md) | *Sciences Editor*
+
+[Emma Wollaeger](./authors/emmaWollaeger/emmaWollaeger.md) | *Sciences Editor*
+
 [Emma Melville](./authors/emmaMelville/emmaMelville.md) | *Website Editor*
 
 [Riley Roggenkamp](./authors/rileyRoggenkamp/rileyRoggenkamp.md) | *Website Editor*
@@ -37,6 +41,8 @@ The Marlborough Academic Research Society *(MARS)* aims to provide Marlborough s
 [Apply](./apply.md) to be an editor on the journal staff.
 
 [Read](./issue1/landing.md) Issue 1.
+
+[Read](./issue2/landing.md) Issue 2.
 
 <div style="text-align: center;"> 
 
