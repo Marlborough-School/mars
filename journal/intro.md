@@ -42,6 +42,8 @@ The Marlborough Academic Research Society *(MARS)* aims to provide Marlborough s
 
 [Read](./issue1/landing.md) Issue 1.
 
+[Read](./issue2/landing.md) Issue 2.
+
 <div style="text-align: center;"> 
 
 ```{sidebar} <font color = #260859>*Faculty Advisors*</font>

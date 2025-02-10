@@ -14,3 +14,12 @@ chapters:
       sections:
       - file: issue1/sciences/ronenEpigenetics/ronenEpigenetics
       - file: issue1/sciences/vickTraumatic/vickTraumatic
+  - file: issue2/landing
+    sections:
+    - file: issue2/humanities/landing
+      sections:
+      - file: issue2/humanities/dershewitz/dershewitz
+    - file: issue2/sciences/landing
+      sections:
+      - file: issue2/sciences/wollaeger/wollaeger
+      - file: issue2/sciences/emerson/emerson
