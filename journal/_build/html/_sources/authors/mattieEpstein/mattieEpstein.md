@@ -1,4 +1,4 @@
-```{image} mattieEpstein.jpeg
+```{image} mattie.jpeg
 :height: 100px
 :align: left
 ```
