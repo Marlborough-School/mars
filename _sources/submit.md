@@ -2,11 +2,11 @@
 
 Thank you for your interest in submitting a paper to *MARS,* Marlborough’s student-run academic journal. Here is some important information to consider before submitting your article.
 
-Fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSeSKfMEY1grPm38ADvldRxB4seJhvB4onfhsQ-o_8fF0pwB6g/viewform) form to submit your article.
+Fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSd5laaKnhVPkVog1btZPHOjTo5gV4pmhrpzhFQo_eHFDhWPlQ/viewform) form to submit your article.
 
 ### Deadlines
 
-The last day to submit an article is **October 4**.
+The last day to submit an article is **February 23**.
 
 ## Author Guidelines
 
