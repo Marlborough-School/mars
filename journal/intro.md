@@ -22,6 +22,8 @@
 
 [Isabelle Fleischmann](./authors/isabelleFleischmann/isabelleFleischmann.md) | *Sciences Editor*
 
+[Ivy Starr](./authors/ivyStarr/ivyStarr.md) | *Sciences Editor*
+
 [Kate Kamenstein](./authors/kateKamenstein/kateKamenstein.md) | *Humanities & Social Sciences Editor*
 
 [Rainey Renwick](./authors/raineyRenwick/raineyRenwick.md) | *Humanities & Social Sciences Editor*
