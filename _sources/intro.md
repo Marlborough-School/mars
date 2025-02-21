@@ -16,11 +16,9 @@
 
 [Lauren Vick](./authors/laurenVick/laurenVick.md) | *Sciences Editor in Chief*
 
-[Ali Emerson](./authors/aliEmerson/aliEmerson.md) | *Sciences Editor*
-
-[Emma Wollaeger](./authors/emmaWollaeger/emmaWollaeger.md) | *Sciences Editor*
-
 [Isabelle Fleischmann](./authors/isabelleFleischmann/isabelleFleischmann.md) | *Sciences Editor*
+
+[Ivy Starr](./authors/ivyStarr/ivyStarr.md) | *Sciences Editor*
 
 [Kate Kamenstein](./authors/kateKamenstein/kateKamenstein.md) | *Humanities & Social Sciences Editor*
 

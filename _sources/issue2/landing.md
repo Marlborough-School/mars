@@ -5,3 +5,4 @@
 Elle Dershewitz
 Ali Emerson
 Emma Wollaeger
+Fernie Kimball

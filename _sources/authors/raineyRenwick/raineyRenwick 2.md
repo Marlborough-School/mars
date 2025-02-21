@@ -1,9 +1,9 @@
-```{image} emmaWollaeger.jpg
+```{image} rainey.jpeg
 :height: 100px
 :align: left
 ```
 
-# Emma Wollaeger
+# Rainey Renwick
 
 Marlborough 2025
 
@@ -13,6 +13,6 @@ Marlborough 2025
 
 ```{margin} Positions
 
-Sciences Editor
+Humanities and Social Sciences Editor
 
 ```

@@ -1,9 +1,9 @@
-```{image} ali.jpg
+```{image} ivyStarr.jpeg
 :height: 100px
 :align: left
 ```
 
-# Ali Emerson
+# Ivy Starr
 
 Marlborough 2025
 
@@ -13,6 +13,6 @@ Marlborough 2025
 
 ```{margin} Positions
 
-Sciences Editor 
+Sciences Editor
 
 ```
