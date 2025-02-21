@@ -19,6 +19,7 @@ chapters:
     - file: issue2/humanities/landing
       sections:
       - file: issue2/humanities/dershewitz/dershewitz
+      - file: issue2/humanities/kimball/kimball
     - file: issue2/sciences/landing
       sections:
       - file: issue2/sciences/wollaeger/wollaeger
