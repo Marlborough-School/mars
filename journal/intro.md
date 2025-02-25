@@ -22,6 +22,8 @@
 
 [Kate Kamenstein](./authors/kateKamenstein/kateKamenstein.md) | *Humanities & Social Sciences Editor*
 
+[Lily Sanchez](./authors/lilySanchez/lilySanchez.md) | *Humanities & Social Sciences Editor*
+
 [Rainey Renwick](./authors/raineyRenwick/raineyRenwick.md) | *Humanities & Social Sciences Editor*
 
 [Emma Melville](./authors/emmaMelville/emmaMelville.md) | *Website Editor*
