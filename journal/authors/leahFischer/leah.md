@@ -1,4 +1,7 @@
-
+```{image} leah.jpeg
+:height: 100px
+:align: left
+```
 
 # Leah Fischer
 
