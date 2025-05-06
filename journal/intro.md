@@ -20,11 +20,15 @@
 
 [Ivy Starr](./authors/ivyStarr/ivyStarr.md) | *Sciences Editor*
 
-[Kate Kamenstein](./authors/kateKamenstein/kateKamenstein.md) | *Humanities & Social Sciences Editor*
-
 [Lily Sanchez](./authors/lilySanchez/lilySanchez.md) | *Humanities & Social Sciences Editor*
 
-[Rainey Renwick](./authors/raineyRenwick/raineyRenwick.md) | *Humanities & Social Sciences Editor*
+[Lillian Shavelle](./authors/lillianShavelle/lillianShavelle.md) | *Humanities & Social Sciences Editor*
+
+[Leah Fischer](./authors/leahFischer/leahFischer.md) | *Humanities & Social Sciences Editor*
+
+[Kate Kamenstein](./authors/kateKamenstein/kateKamenstein.md) | *Media Coordinator*
+
+[Rainey Renwick](./authors/raineyRenwick/raineyRenwick.md) | *Media Coordinator*
 
 [Emma Melville](./authors/emmaMelville/emmaMelville.md) | *Website Editor*
 

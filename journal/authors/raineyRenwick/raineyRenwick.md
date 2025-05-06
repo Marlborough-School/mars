@@ -13,6 +13,6 @@ Marlborough 2025
 
 ```{margin} Positions
 
-Humanities and Social Sciences Editor
+Media Coordinators
 
 ```
