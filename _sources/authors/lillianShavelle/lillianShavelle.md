@@ -1,4 +1,7 @@
-
+```{image} lilly.jpeg
+:height: 100px
+:align: left
+```
 
 # Lillian Shavelle
 
