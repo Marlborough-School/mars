@@ -8,27 +8,11 @@
 
 ```{sidebar} <font color = #260859>*Current Staff*</font>
 
-[Mattie Epstein](./authors/mattieEpstein/mattieEpstein.md) | *Humanities & Social Sciences Editor in Chief*
+[Leah Fischer](./authors/leahFischer/leahFischer.md) | *Editor in Chief*
 
-[Sally Cheng](./authors/sallyCheng/sallyCheng.md) | *Humanities & Social Sciences Editor in Chief*
+[Lillian Shavelle](./authors/lillianShavelle/lillianShavelle.md) | *Editor in Chief*
 
-[Vic Perry](./authors/vicPerry/vicPerry.md) | *Sciences Editor in Chief*
-
-[Lauren Vick](./authors/laurenVick/laurenVick.md) | *Sciences Editor in Chief*
-
-[Isabelle Fleischmann](./authors/isabelleFleischmann/isabelleFleischmann.md) | *Sciences Editor*
-
-[Ivy Starr](./authors/ivyStarr/ivyStarr.md) | *Sciences Editor*
-
-[Lily Sanchez](./authors/lilySanchez/lilySanchez.md) | *Humanities & Social Sciences Editor*
-
-[Lillian Shavelle](./authors/lillianShavelle/lillianShavelle.md) | *Humanities & Social Sciences Editor*
-
-[Leah Fischer](./authors/leahFischer/leahFischer.md) | *Humanities & Social Sciences Editor*
-
-[Kate Kamenstein](./authors/kateKamenstein/kateKamenstein.md) | *Media Coordinator*
-
-[Rainey Renwick](./authors/raineyRenwick/raineyRenwick.md) | *Media Coordinator*
+[Rainey Renwick](./authors/raineyRenwick/raineyRenwick.md) | *Outreach Coordinator*
 
 [Emma Melville](./authors/emmaMelville/emmaMelville.md) | *Website Editor*
 
